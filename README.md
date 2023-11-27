@@ -25,7 +25,7 @@ pip install tensorflow numpy matplotlib opencv-python pillow
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/deep-artistic-style-transfer.git
+git clone https://github.com/priyank200/deep-artistic-style-transfer.git
 cd deep-artistic-style-transfer
 ```
 
